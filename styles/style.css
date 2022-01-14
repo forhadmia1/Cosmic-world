@@ -241,6 +241,9 @@ footer>p{
     .banner-right{
         order: 1;
     }
+    .banner-right>img{
+        margin-left: 0;
+    }
     .btn{
         display: flex;
         justify-content: center;
